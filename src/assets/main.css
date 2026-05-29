@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  color: #14213d;
+  background: #f7f7fb;
+}
+button, input, select, textarea { font-family: inherit; }
+a { color: inherit; }
